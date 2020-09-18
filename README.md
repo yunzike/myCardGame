@@ -1,2 +1,2 @@
 # myCardGame
-a simple CardGame
+a simple MyCardGame

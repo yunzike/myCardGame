@@ -9,13 +9,10 @@ import java.util.List;
  * version: 1.0
  */
 public class Player {
+
     private String name;
     private List<Card> cards;
     private Integer score;
-
-    public Player(){
-
-    }
 
     public Player(String name){
         this.name = name;

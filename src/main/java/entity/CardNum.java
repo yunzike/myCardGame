@@ -1,4 +1,4 @@
-package utils;
+package entity;
 
 /**
  * @author xiongxq
@@ -26,7 +26,7 @@ public enum CardNum {
 
     CardNum(String number){
       this.number = number;
-    };
+    }
 
     public String getNumber() {
         return number;
